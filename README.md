@@ -1,1 +1,1 @@
-All labs and projects from OS Subject.
+All Labs and Projects from OS Subject.
